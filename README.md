@@ -1,6 +1,6 @@
 # Hi, I'm Po-Lien
 
-I'm a software engineer with around five years of experience building and maintaining enterprise web applications, primarily with Java.
+I'm a software engineer with five years of experience building and maintaining enterprise web applications, primarily with Java.
 
 Before starting my MSc in Computer Science at the University of Birmingham, I worked on financial and insurance systems, including HR and attendance applications, procurement platforms, backend APIs, relational database design, and legacy-system integration.
 
