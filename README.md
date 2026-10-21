@@ -1,4 +1,4 @@
-# Hi, I'm Po-Lien 👋
+# Hi, I'm Po-Lien
 
 I'm a software engineer with around five years of experience building and maintaining enterprise web applications, primarily with Java.
 
